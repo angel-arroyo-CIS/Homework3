@@ -1,3 +1,6 @@
+#Angel Arroyo
+#1780023
+
 nums = input("")
 
 lst = nums.split()
